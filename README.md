@@ -1,4 +1,4 @@
-# Ex--5 Rail Fence
+# Ex-5 Rail Fence
 
 Rail Fence Cipher using with different key values
 
